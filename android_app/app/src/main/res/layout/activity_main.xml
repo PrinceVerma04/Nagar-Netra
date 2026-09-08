@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.civicservices.monitor.OverlayView
+        android:id="@+id/overlayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_margin="16dp"
+        android:background="#88000000"
+        android:padding="8dp"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        tools:text="12 FPS" />
+
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="72dp"
+        android:layout_marginStart="16dp"
+        android:background="@drawable/bg_round_button"
+        android:src="@android:drawable/ic_menu_close_clear_cancel"
+        app:tint="#FFFFFF"
+        android:contentDescription="Back"
+        android:padding="10dp" />
+
+    <ImageButton
+        android:id="@+id/aboutButton"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_gravity="top|end"
+        android:layout_margin="16dp"
+        android:background="@drawable/bg_round_button"
+        android:src="@android:drawable/ic_menu_info_details"
+        app:tint="@color/brand_orange"
+        android:contentDescription="About"
+        android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/recordingIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_round_button"
+        android:paddingHorizontal="14dp"
+        android:paddingVertical="6dp"
+        android:text="● REC 00:00"
+        android:textColor="#FF3B30"
+        android:textStyle="bold"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="32dp"
+        android:paddingTop="16dp">
+
+        <ImageButton
+            android:id="@+id/captureButton"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginEnd="28dp"
+            android:background="@drawable/bg_round_button"
+            android:src="@android:drawable/ic_menu_camera"
+            app:tint="#FFFFFF"
+            android:contentDescription="Capture photo"
+            android:padding="16dp" />
+
+        <ImageButton
+            android:id="@+id/recordButton"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:background="@drawable/bg_record_button"
+            android:src="@android:drawable/presence_video_online"
+            app:tint="#FFFFFF"
+            android:contentDescription="Record video"
+            android:padding="18dp" />
+    </LinearLayout>
+
+</FrameLayout>

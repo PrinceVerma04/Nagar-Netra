@@ -1,0 +1,1019 @@
+{
+  "generated": "2026-09-07",
+  "stats": {
+    "images": 3896,
+    "boxes": 6581,
+    "empty_labels": 0
+  },
+  "findings": {
+    "D_tiny_box": [
+      {
+        "split": "train",
+        "stem": "360-TL-CGRoad_mp4-0050_jpg.rf.edc2073cd6497c6a8b1b167db0bab9b8",
+        "class": "billboard_hoarding",
+        "detail": "line 1: 0.134% of frame (~87x36px)"
+      },
+      {
+        "split": "train",
+        "stem": "Screenshot 2026-09-04 122613",
+        "class": "dog",
+        "detail": "line 4: 0.124% of frame (~16x14px)"
+      },
+      {
+        "split": "train",
+        "stem": "ashrith_garbage_waste_train_img3512_jpg.rf.abb48bb6cfa2388e146f3c3d338ebc9a",
+        "class": "garbage_pile",
+        "detail": "line 9: 0.130% of frame (~25x16px)"
+      },
+      {
+        "split": "train",
+        "stem": "ashrith_garbage_waste_train_img3512_jpg.rf.abb48bb6cfa2388e146f3c3d338ebc9a",
+        "class": "garbage_pile",
+        "detail": "line 10: 0.100% of frame (~18x17px)"
+      },
+      {
+        "split": "train",
+        "stem": "dats2022_170",
+        "class": "buffalo",
+        "detail": "line 1: 0.087% of frame (~79x79px)"
+      },
+      {
+        "split": "train",
+        "stem": "goat_Screenshot 2026-09-04 120729",
+        "class": "goat",
+        "detail": "line 1: 0.053% of frame (~9x17px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1037_jpg.rf.9c5259a38f108b14e1ff44cd89840369",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.098% of frame (~52x39px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1037_jpg.rf.9c5259a38f108b14e1ff44cd89840369",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.051% of frame (~32x33px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1072_jpg.rf.6e186a46e22f85526d688946fc5f7698",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.111% of frame (~47x49px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1072_jpg.rf.6e186a46e22f85526d688946fc5f7698",
+        "class": "streetlight_working",
+        "detail": "line 4: 0.031% of frame (~26x25px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1165_jpg.rf.1cfa2e91a7a497305e662fe0a7b1a317",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.054% of frame (~31x36px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1165_jpg.rf.1cfa2e91a7a497305e662fe0a7b1a317",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.031% of frame (~26x25px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1171_jpg.rf.2d4ee244b1164469741c1a7f3cf4e812",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.054% of frame (~31x36px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1171_jpg.rf.2d4ee244b1164469741c1a7f3cf4e812",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.031% of frame (~26x25px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1178_jpg.rf.153c9d09bb74a1a002cd1b59baad5912",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1212_jpg.rf.e9cde9f2e142e7f8adf9e75d56d2f91b",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1222_jpg.rf.0cd341f0ea767abe43165a66c26d82e1",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1226_jpg.rf.152b2b081ae5cbfb97d70fca20c5414b",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.046% of frame (~27x35px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1229_jpg.rf.e0532d6ecde531e1ada1acd81fc881f3",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.046% of frame (~27x35px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1240_jpg.rf.07b73eeeb4257cf68d9e8f7eeb6e43a4",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1243_jpg.rf.c5cf11ebd94fa99bc9a5df92ab518f9f",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1245_jpg.rf.389de7bc6248c4872819ffdfde8d026b",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1250_jpg.rf.2dc458cca52b007bf84b9762829ae9a6",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1253_jpg.rf.1fd2c7c00755b2245e0b949c4988800e",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1276_jpg.rf.f38c9b0e3e05c84bc1c3685056d92b5b",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.038% of frame (~27x29px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1305_jpg.rf.acfe5aac1c561f53434bd5eda7d80099",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.138% of frame (~53x54px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1312_jpg.rf.d59031b634d035dcbce863fdeadc271f",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.135% of frame (~46x61px)"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_streetlight_night_frame1312_jpg.rf.d59031b634d035dcbce863fdeadc271f",
+        "class": "streetlight_working",
+        "detail": "line 4: 0.127% of frame (~52x50px)"
+      },
+      {
+        "split": "train",
+        "stem": "streetlight_frontFar_BLR-2018-04-19_17-36-55_frontFar_000042_r_jpg.rf.b5a466225f2eb1978948052081d98fd9",
+        "class": "streetlight_not_working",
+        "detail": "line 1: 0.120% of frame (~40x37px)"
+      },
+      {
+        "split": "train",
+        "stem": "streetlight_new_img_888_png.rf.8ba3cf3ed70ac180875381f02e4a0c9f",
+        "class": "streetlight_not_working",
+        "detail": "line 1: 0.142% of frame (~56x54px)"
+      },
+      {
+        "split": "val",
+        "stem": "India_001688_jpg.rf.a149e964455858bbbc30b04ae8227eed",
+        "class": "pothole",
+        "detail": "line 2: 0.135% of frame (~20x12px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1071_jpg.rf.7493b46fdf8244565b70f569bfa2d267",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.088% of frame (~48x38px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1071_jpg.rf.7493b46fdf8244565b70f569bfa2d267",
+        "class": "streetlight_working",
+        "detail": "line 4: 0.034% of frame (~28x25px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1073_jpg.rf.f4e98fa250d3b8031b9876e5aab12ce2",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.039% of frame (~35x23px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1161_jpg.rf.2a740210f0a255743fffc15bf79453af",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.048% of frame (~33x30px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1161_jpg.rf.2a740210f0a255743fffc15bf79453af",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.035% of frame (~28x26px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1167_jpg.rf.0ff5f278c4590be708548f73d4b0c6b4",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.054% of frame (~31x36px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1167_jpg.rf.0ff5f278c4590be708548f73d4b0c6b4",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.031% of frame (~26x25px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1172_jpg.rf.f36dc4508819200581a2f9e35a7c0e37",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.054% of frame (~31x36px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1172_jpg.rf.f36dc4508819200581a2f9e35a7c0e37",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.031% of frame (~26x25px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1183_jpg.rf.3169225b0b2b82b6b539e95e3322b450",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1220_jpg.rf.dd3d25893c8042f44ea80d352791dd6e",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1223_jpg.rf.3ffdfe9df730588396dab1a6fe8fa7fa",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1227_jpg.rf.07db383b165cbe4feb8e9d130b1246a8",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.046% of frame (~27x35px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1227_jpg.rf.07db383b165cbe4feb8e9d130b1246a8",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.076% of frame (~47x34px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1239_jpg.rf.3af02e9f349bea219fdf8cafbe71059a",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1241_jpg.rf.9f6435f43488abc91bd5c0b56a60c459",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1252_jpg.rf.fd0d8bebe151231c978e07726d6aa604",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1265_jpg.rf.30417c02b714ac00fd3e55621f3b7449",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.062% of frame (~38x34px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1302_jpg.rf.63c44fd92269b7dd5fc31b04c1da459a",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.050% of frame (~37x28px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1302_jpg.rf.63c44fd92269b7dd5fc31b04c1da459a",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.046% of frame (~34x28px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1302_jpg.rf.63c44fd92269b7dd5fc31b04c1da459a",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.032% of frame (~30x22px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1302_jpg.rf.63c44fd92269b7dd5fc31b04c1da459a",
+        "class": "streetlight_working",
+        "detail": "line 4: 0.051% of frame (~35x30px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1306_jpg.rf.86e4ef3d397f24babdf0a8943f9d72d9",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.116% of frame (~71x34px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1306_jpg.rf.86e4ef3d397f24babdf0a8943f9d72d9",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.079% of frame (~44x37px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1306_jpg.rf.86e4ef3d397f24babdf0a8943f9d72d9",
+        "class": "streetlight_working",
+        "detail": "line 4: 0.118% of frame (~74x33px)"
+      },
+      {
+        "split": "val",
+        "stem": "pawan_streetlight_night_frame1306_jpg.rf.86e4ef3d397f24babdf0a8943f9d72d9",
+        "class": "streetlight_working",
+        "detail": "line 5: 0.080% of frame (~45x37px)"
+      },
+      {
+        "split": "val",
+        "stem": "pothole_intel_img-571_jpg.rf.d98485711b0a7493b3499cc2b5fffa32",
+        "class": "pothole",
+        "detail": "line 12: 0.073% of frame (~23x13px)"
+      },
+      {
+        "split": "val",
+        "stem": "streetlight_new_img_364_png.rf.a286ee6feeec03229c1299926f85c22a",
+        "class": "streetlight_not_working",
+        "detail": "line 3: 0.143% of frame (~65x46px)"
+      },
+      {
+        "split": "val",
+        "stem": "streetlight_new_img_364_png.rf.a286ee6feeec03229c1299926f85c22a",
+        "class": "streetlight_not_working",
+        "detail": "line 5: 0.057% of frame (~44x27px)"
+      },
+      {
+        "split": "val",
+        "stem": "streetlight_sideRight_BLR-2018-06-06_16-41-17_sideRight_000015_r_jpg.rf.71e05782981509e9bccbd0984b306859",
+        "class": "streetlight_not_working",
+        "detail": "line 1: 0.064% of frame (~53x25px)"
+      },
+      {
+        "split": "test",
+        "stem": "ashrith_garbage_waste_train_img3519_jpg.rf.1bc9882d6813fcce970337e5675dcaad",
+        "class": "garbage_pile",
+        "detail": "line 7: 0.095% of frame (~17x15px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_billboard_IMG_4328_JPG.rf.8b7d890689d66de8321520210ed6d0f9",
+        "class": "billboard_hoarding",
+        "detail": "line 2: 0.124% of frame (~106x37px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1059_jpg.rf.b7a4d0dc19ad13a6bdb732c07ab852f7",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.083% of frame (~48x36px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1065_jpg.rf.f18052d96d7a73d4bc11c7ff00af18ea",
+        "class": "streetlight_not_working",
+        "detail": "line 1: 0.110% of frame (~71x32px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1065_jpg.rf.f18052d96d7a73d4bc11c7ff00af18ea",
+        "class": "streetlight_not_working",
+        "detail": "line 2: 0.108% of frame (~66x34px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1166_jpg.rf.15eb93fc7120174fa8d68c5a2d0874ba",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.054% of frame (~31x36px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1166_jpg.rf.15eb93fc7120174fa8d68c5a2d0874ba",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.031% of frame (~26x25px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1177_jpg.rf.20fd9fbde050a5f4ed9485d4bc4c5530",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1189_jpg.rf.a0cb2044cede44e321d868be4bf3ff6b",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1213_jpg.rf.0915f35cc1cf5fd2676e6d205b05e14b",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.044% of frame (~26x35px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1225_jpg.rf.e44449b2c186f6b0d09172830322aff6",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.046% of frame (~27x35px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1225_jpg.rf.e44449b2c186f6b0d09172830322aff6",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.074% of frame (~37x41px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1228_jpg.rf.805810f70116fc26b4cea40012279fca",
+        "class": "streetlight_working",
+        "detail": "line 1: 0.046% of frame (~27x35px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1228_jpg.rf.805810f70116fc26b4cea40012279fca",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.117% of frame (~54x45px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1237_jpg.rf.13430ed713da073950bf751fb714a066",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1248_jpg.rf.abed569bdaf4e04e24c2f039da76038e",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1255_jpg.rf.60ed7e0642fcbac77964e5278449b858",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.050% of frame (~36x29px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1304_jpg.rf.bb7eae776c0a84a6b11edf4e4ae7094e",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.122% of frame (~54x47px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1304_jpg.rf.bb7eae776c0a84a6b11edf4e4ae7094e",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.129% of frame (~65x41px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1315_jpg.rf.6cfcca87cd2f4dd4b18ee3ff54156fda",
+        "class": "streetlight_working",
+        "detail": "line 2: 0.092% of frame (~50x38px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1315_jpg.rf.6cfcca87cd2f4dd4b18ee3ff54156fda",
+        "class": "streetlight_working",
+        "detail": "line 3: 0.094% of frame (~61x32px)"
+      },
+      {
+        "split": "test",
+        "stem": "pawan_streetlight_night_frame1315_jpg.rf.6cfcca87cd2f4dd4b18ee3ff54156fda",
+        "class": "streetlight_working",
+        "detail": "line 4: 0.035% of frame (~27x27px)"
+      },
+      {
+        "split": "test",
+        "stem": "streetlight_frontFar_BLR-2018-04-19_17-36-55_frontFar_000156_r_jpg.rf.c8577a12faa7ead53bd46687540116cf",
+        "class": "streetlight_not_working",
+        "detail": "line 2: 0.064% of frame (~28x28px)"
+      },
+      {
+        "split": "test",
+        "stem": "streetlight_new_img_916_png.rf.9b10dd7b5f2b3c074c4c6b9dd6ab6597",
+        "class": "streetlight_not_working",
+        "detail": "line 1: 0.061% of frame (~49x26px)"
+      },
+      {
+        "split": "test",
+        "stem": "streetlight_new_img_916_png.rf.9b10dd7b5f2b3c074c4c6b9dd6ab6597",
+        "class": "streetlight_not_working",
+        "detail": "line 2: 0.076% of frame (~44x36px)"
+      }
+    ],
+    "B_out_of_frame": [
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000373_jpg.rf.c778074866f833f8021dc0ab7ef4a3ab",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000374_jpg.rf.1ef1c684577ea3e8ea72657db3d33a40",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000384_jpg.rf.eea8387fafe6049423e0b7656b2d85c8",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000386_jpg.rf.9ed694b13801da735c5e99b94f5b8c5d",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000390_jpg.rf.374918776ee36e2584ff16420bc95f78",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000393_jpg.rf.e7743149d952da9da4a9d4440e5cba68",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000394_jpg.rf.f0d5bc56a34807ae710fa6bb1af0db86",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000398_jpg.rf.f663ee22c97807dfab8e263b07e3a803",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000400_jpg.rf.3e6514f847bdf998237b52073280b977",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000401_jpg.rf.5d2c86eb55ded4655718ef7984eea104",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000405_jpg.rf.9dd3fa56359a34d5432e08007804f075",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000406_jpg.rf.0e1859cd3f3663c9871fc99091eb6b92",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000411_jpg.rf.dd1081887e9f523a2ab536b41cd9919a",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000420_jpg.rf.c4e62c70fbb3fe110a8bca5fe04f4872",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000424_jpg.rf.13a1a5c1ab0b5d5123f12010d914efb2",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000430_jpg.rf.53e2f6244935266de2513d15986471da",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000432_jpg.rf.8f7d175834f3759b8e666458bcdd548d",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000433_jpg.rf.d8c0c729e54c54a7e64ed26c5ded6973",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000434_jpg.rf.f8b055f7407fd5fc48308acb24f46931",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000435_jpg.rf.1513c5d2b9d2745f94424b319872b376",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000436_jpg.rf.38b378dc900a07ac405db4876ea6147c",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000439_jpg.rf.909f3d77f1bc3724d2879d47850ce67f",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000440_jpg.rf.ca1b34526f755567126b40278ae8ef5e",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000442_jpg.rf.94f20ab120cf1f2b5c66ed488618699a",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000443_jpg.rf.e3b8c1af2194c35de52cf71e61da14c7",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000445_jpg.rf.61e3802222edf0b89ff0b53179685cc3",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000447_jpg.rf.62d0c2da418082b7af300cb9fdc5fa94",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000448_jpg.rf.e6b28e9a526996a982629b77389907b5",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "hydraa1_video_3_frame_000449_jpg.rf.5110dde4411da7c88c71c45d74b0b7db",
+        "class": "encroachment",
+        "detail": "line 3: extends 0.0000 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_billboard_64687d740d1b6_jpg.rf.3c32a66cf9cf6d9c4dca0f9efc2ed1bd",
+        "class": "billboard_hoarding",
+        "detail": "line 2: extends 0.0020 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_billboard_IMG_20240728_064201_632_jpg.rf.03dcbe1fd5a58ec0af2d1b66a812d04c",
+        "class": "billboard_hoarding",
+        "detail": "line 1: extends 0.0023 beyond the edge"
+      },
+      {
+        "split": "train",
+        "stem": "pawan_billboard_IMG_20240728_064209_243_jpg.rf.1c98822c0f0090fc71aebf28756c2ec4",
+        "class": "billboard_hoarding",
+        "detail": "line 2: extends 0.0017 beyond the edge"
+      },
+      {
+        "split": "val",
+        "stem": "taco_000057_jpg.rf.80419336cde52909d24609e8345b07c2",
+        "class": "garbage_pile",
+        "detail": "line 1: extends 0.0510 beyond the edge"
+      }
+    ],
+    "F_extreme_aspect": [
+      {
+        "split": "train",
+        "stem": "pawan_billboard_IMG_20240728_064201_632_jpg.rf.03dcbe1fd5a58ec0af2d1b66a812d04c",
+        "class": "billboard_hoarding",
+        "detail": "line 1: aspect 0.0:1"
+      }
+    ]
+  },
+  "flagged_images": {
+    "test/ashrith_garbage_waste_train_img3519_jpg.rf.1bc9882d6813fcce970337e5675dcaad": [
+      "D"
+    ],
+    "test/pawan_billboard_IMG_4328_JPG.rf.8b7d890689d66de8321520210ed6d0f9": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1059_jpg.rf.b7a4d0dc19ad13a6bdb732c07ab852f7": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1065_jpg.rf.f18052d96d7a73d4bc11c7ff00af18ea": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1166_jpg.rf.15eb93fc7120174fa8d68c5a2d0874ba": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1177_jpg.rf.20fd9fbde050a5f4ed9485d4bc4c5530": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1189_jpg.rf.a0cb2044cede44e321d868be4bf3ff6b": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1213_jpg.rf.0915f35cc1cf5fd2676e6d205b05e14b": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1225_jpg.rf.e44449b2c186f6b0d09172830322aff6": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1228_jpg.rf.805810f70116fc26b4cea40012279fca": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1237_jpg.rf.13430ed713da073950bf751fb714a066": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1248_jpg.rf.abed569bdaf4e04e24c2f039da76038e": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1255_jpg.rf.60ed7e0642fcbac77964e5278449b858": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1304_jpg.rf.bb7eae776c0a84a6b11edf4e4ae7094e": [
+      "D"
+    ],
+    "test/pawan_streetlight_night_frame1315_jpg.rf.6cfcca87cd2f4dd4b18ee3ff54156fda": [
+      "D"
+    ],
+    "test/streetlight_frontFar_BLR-2018-04-19_17-36-55_frontFar_000156_r_jpg.rf.c8577a12faa7ead53bd46687540116cf": [
+      "D"
+    ],
+    "test/streetlight_new_img_916_png.rf.9b10dd7b5f2b3c074c4c6b9dd6ab6597": [
+      "D"
+    ],
+    "train/360-TL-CGRoad_mp4-0050_jpg.rf.edc2073cd6497c6a8b1b167db0bab9b8": [
+      "D"
+    ],
+    "train/Screenshot 2026-09-04 122613": [
+      "D"
+    ],
+    "train/ashrith_garbage_waste_train_img3512_jpg.rf.abb48bb6cfa2388e146f3c3d338ebc9a": [
+      "D"
+    ],
+    "train/dats2022_170": [
+      "D"
+    ],
+    "train/goat_Screenshot 2026-09-04 120729": [
+      "D"
+    ],
+    "train/hydraa1_video_3_frame_000373_jpg.rf.c778074866f833f8021dc0ab7ef4a3ab": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000374_jpg.rf.1ef1c684577ea3e8ea72657db3d33a40": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000384_jpg.rf.eea8387fafe6049423e0b7656b2d85c8": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000386_jpg.rf.9ed694b13801da735c5e99b94f5b8c5d": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000390_jpg.rf.374918776ee36e2584ff16420bc95f78": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000393_jpg.rf.e7743149d952da9da4a9d4440e5cba68": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000394_jpg.rf.f0d5bc56a34807ae710fa6bb1af0db86": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000398_jpg.rf.f663ee22c97807dfab8e263b07e3a803": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000400_jpg.rf.3e6514f847bdf998237b52073280b977": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000401_jpg.rf.5d2c86eb55ded4655718ef7984eea104": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000405_jpg.rf.9dd3fa56359a34d5432e08007804f075": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000406_jpg.rf.0e1859cd3f3663c9871fc99091eb6b92": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000411_jpg.rf.dd1081887e9f523a2ab536b41cd9919a": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000420_jpg.rf.c4e62c70fbb3fe110a8bca5fe04f4872": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000424_jpg.rf.13a1a5c1ab0b5d5123f12010d914efb2": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000430_jpg.rf.53e2f6244935266de2513d15986471da": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000432_jpg.rf.8f7d175834f3759b8e666458bcdd548d": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000433_jpg.rf.d8c0c729e54c54a7e64ed26c5ded6973": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000434_jpg.rf.f8b055f7407fd5fc48308acb24f46931": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000435_jpg.rf.1513c5d2b9d2745f94424b319872b376": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000436_jpg.rf.38b378dc900a07ac405db4876ea6147c": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000439_jpg.rf.909f3d77f1bc3724d2879d47850ce67f": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000440_jpg.rf.ca1b34526f755567126b40278ae8ef5e": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000442_jpg.rf.94f20ab120cf1f2b5c66ed488618699a": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000443_jpg.rf.e3b8c1af2194c35de52cf71e61da14c7": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000445_jpg.rf.61e3802222edf0b89ff0b53179685cc3": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000447_jpg.rf.62d0c2da418082b7af300cb9fdc5fa94": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000448_jpg.rf.e6b28e9a526996a982629b77389907b5": [
+      "B"
+    ],
+    "train/hydraa1_video_3_frame_000449_jpg.rf.5110dde4411da7c88c71c45d74b0b7db": [
+      "B"
+    ],
+    "train/pawan_billboard_64687d740d1b6_jpg.rf.3c32a66cf9cf6d9c4dca0f9efc2ed1bd": [
+      "B"
+    ],
+    "train/pawan_billboard_IMG_20240728_064201_632_jpg.rf.03dcbe1fd5a58ec0af2d1b66a812d04c": [
+      "B",
+      "F"
+    ],
+    "train/pawan_billboard_IMG_20240728_064209_243_jpg.rf.1c98822c0f0090fc71aebf28756c2ec4": [
+      "B"
+    ],
+    "train/pawan_streetlight_night_frame1037_jpg.rf.9c5259a38f108b14e1ff44cd89840369": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1072_jpg.rf.6e186a46e22f85526d688946fc5f7698": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1165_jpg.rf.1cfa2e91a7a497305e662fe0a7b1a317": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1171_jpg.rf.2d4ee244b1164469741c1a7f3cf4e812": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1178_jpg.rf.153c9d09bb74a1a002cd1b59baad5912": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1212_jpg.rf.e9cde9f2e142e7f8adf9e75d56d2f91b": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1222_jpg.rf.0cd341f0ea767abe43165a66c26d82e1": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1226_jpg.rf.152b2b081ae5cbfb97d70fca20c5414b": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1229_jpg.rf.e0532d6ecde531e1ada1acd81fc881f3": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1240_jpg.rf.07b73eeeb4257cf68d9e8f7eeb6e43a4": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1243_jpg.rf.c5cf11ebd94fa99bc9a5df92ab518f9f": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1245_jpg.rf.389de7bc6248c4872819ffdfde8d026b": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1250_jpg.rf.2dc458cca52b007bf84b9762829ae9a6": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1253_jpg.rf.1fd2c7c00755b2245e0b949c4988800e": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1276_jpg.rf.f38c9b0e3e05c84bc1c3685056d92b5b": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1305_jpg.rf.acfe5aac1c561f53434bd5eda7d80099": [
+      "D"
+    ],
+    "train/pawan_streetlight_night_frame1312_jpg.rf.d59031b634d035dcbce863fdeadc271f": [
+      "D"
+    ],
+    "train/streetlight_frontFar_BLR-2018-04-19_17-36-55_frontFar_000042_r_jpg.rf.b5a466225f2eb1978948052081d98fd9": [
+      "D"
+    ],
+    "train/streetlight_new_img_888_png.rf.8ba3cf3ed70ac180875381f02e4a0c9f": [
+      "D"
+    ],
+    "val/India_001688_jpg.rf.a149e964455858bbbc30b04ae8227eed": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1071_jpg.rf.7493b46fdf8244565b70f569bfa2d267": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1073_jpg.rf.f4e98fa250d3b8031b9876e5aab12ce2": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1161_jpg.rf.2a740210f0a255743fffc15bf79453af": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1167_jpg.rf.0ff5f278c4590be708548f73d4b0c6b4": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1172_jpg.rf.f36dc4508819200581a2f9e35a7c0e37": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1183_jpg.rf.3169225b0b2b82b6b539e95e3322b450": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1220_jpg.rf.dd3d25893c8042f44ea80d352791dd6e": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1223_jpg.rf.3ffdfe9df730588396dab1a6fe8fa7fa": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1227_jpg.rf.07db383b165cbe4feb8e9d130b1246a8": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1239_jpg.rf.3af02e9f349bea219fdf8cafbe71059a": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1241_jpg.rf.9f6435f43488abc91bd5c0b56a60c459": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1252_jpg.rf.fd0d8bebe151231c978e07726d6aa604": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1265_jpg.rf.30417c02b714ac00fd3e55621f3b7449": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1302_jpg.rf.63c44fd92269b7dd5fc31b04c1da459a": [
+      "D"
+    ],
+    "val/pawan_streetlight_night_frame1306_jpg.rf.86e4ef3d397f24babdf0a8943f9d72d9": [
+      "D"
+    ],
+    "val/pothole_intel_img-571_jpg.rf.d98485711b0a7493b3499cc2b5fffa32": [
+      "D"
+    ],
+    "val/streetlight_new_img_364_png.rf.a286ee6feeec03229c1299926f85c22a": [
+      "D"
+    ],
+    "val/streetlight_sideRight_BLR-2018-06-06_16-41-17_sideRight_000015_r_jpg.rf.71e05782981509e9bccbd0984b306859": [
+      "D"
+    ],
+    "val/taco_000057_jpg.rf.80419336cde52909d24609e8345b07c2": [
+      "B"
+    ]
+  },
+  "classwise_vs_retraining": []
+}

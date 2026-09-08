@@ -1,0 +1,8 @@
+<resources>
+    <string name="landing_title">Civic Monitor</string>
+    <string name="landing_subtitle">On-device AI that spots street problems in real time, entirely offline.</string>
+    <string name="cta_start_monitoring">Start Live Monitoring</string>
+    <string name="cta_view_reports">View Saved Reports</string>
+    <string name="landing_detects_heading">What it detects</string>
+    <string name="landing_footer_note">All detection runs on this device. No camera footage ever leaves your phone.</string>
+</resources>

@@ -1,0 +1,26 @@
+path: /home/coral/Desktop/Prince/street/data/re-training_data
+train: images/train
+val: images/val
+test: images/test
+
+# Class ids renumbered 0,1,4..17 -> 0..15 on 2026-09-07 by data/remap_class_ids.py.
+# The 2026-09-04 taxonomy overhaul retired manhole_open_broken(2) and
+# streetlight_pole(3) but left a gap, which ultralytics rejects outright
+# ('requires class indices 0-15, but you have 0-17'). Order is unchanged.
+names:
+  0: garbage_pile
+  1: pothole
+  2: encroachment
+  3: billboard_hoarding
+  4: cow
+  5: manhole_closed
+  6: manhole_open
+  7: manhole_broken
+  8: streetlight_working
+  9: streetlight_not_working
+  10: cat
+  11: horse
+  12: dog
+  13: buffalo
+  14: goat
+  15: camel

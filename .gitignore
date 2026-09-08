@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# Datasets and training output are NOT in git.
+# The working directory is ~19 GB; GitHub caps single files at 100 MB and is not
+# a dataset host. Provenance for every source lives in docs/DATASET_UPDATE_LOG.md,
+# and the trained weights that matter are kept (see the negative rules at the end).
+# ---------------------------------------------------------------------------
+data/
+data for test/
+dataset for review/
+new_review_data/
+training_results/
+runs/
+training_logs/
+streetlight/
+debug_captures/
+docs/external_eval/
+docs/field_test_annotations/
+deliverables/*.zip
+deliverables/retrain_report_*/
+*.mp4
+*.avi
+*.mov
+
+# secrets
+.env
+kaggle_api.txt
+kaggle.json
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Drive-upload staging (symlink farm mirroring data/, plus its zip)
+drive_upload/
+drive_upload.zip
+
+# pretrained checkpoints (ultralytics downloads these on first run)
+yolo11n.pt
+yolo26n.pt
+weights/
+
+# android build artifacts
+android_app/app/build/
+android_app/.gradle/
+android_app/local.properties
+*.apk
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+
+# ---------------------------------------------------------------------------
+# Exceptions: small things that SHOULD ship with the code.
+# ---------------------------------------------------------------------------
+!docs/images/
+!docs/images/**
+!models/
+!models/**

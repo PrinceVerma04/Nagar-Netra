@@ -1,0 +1,11 @@
+Civic Services to Be Monitored
+
+The "Civic Services Surveillance & Monitoring" solution will provide real-time monitoring and analytics for a wide array of civic services, ensuring proactive identification and resolution of urban challenges:
+
+1-Detection of garbage on road: The system will identify instances where garbage is lying on roads, footpaths, or in undesignated areas. It will specifically flag larger accumulations of litter (greater than 1 meter in any dimension) and automatically record these incidents with relevant details.
+2-Detection of Road Potholes: Identification of potholes present on the road surface, including those close together, focusing on potholes larger than 10 inches in any dimension.
+3-Detection of Open/Broken Manholes: Identification of open/broken manholes present on the road surface.
+4-Detection of non-working streetlights: AI will detect non-functional lights and alert authorities.
+5-Detection of Encroachments: Identification of any kind of unauthorized occupation or obstruction on roads or streets.
+6-Billboard & Hoarding Compliance: Tracking unauthorized advertising and enforcing removal.
+7-Detection of Cattle on road: Detection of the presence of any cattle that are on the road, automatically generating a report with an image, camera details, and the time of detection.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Civic Monitor</string>
+    <string name="splash_brand">CIVIC MONITOR</string>
+    <string name="splash_tagline">Smart Street Surveillance</string>
+</resources>

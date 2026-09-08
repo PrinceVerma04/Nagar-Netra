@@ -1,0 +1,8 @@
+Copy your trained model here as "model.tflite" before building:
+
+  python export.py --weights runs/civic_services/weights/best.pt
+  cp runs/civic_services/weights/best_saved_model/best_float16.tflite \
+     android_app/app/src/main/assets/model.tflite
+
+Until model.tflite exists, the app still launches and shows the camera preview,
+it just skips detection (Detector.kt throws on load, MainActivity.kt catches it).

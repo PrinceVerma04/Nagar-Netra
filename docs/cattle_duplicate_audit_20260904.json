@@ -1,0 +1,46 @@
+[
+  {
+    "cattle_stem": "cattle_Screenshot 2026-09-04 102741",
+    "cattle_split": "train",
+    "cattle_path": "data/classwise _data/cattle/train/images/cattle_Screenshot 2026-09-04 102741.png",
+    "match_class": "buffalo",
+    "match_stem": "Screenshot 2026-09-04 102741",
+    "match_split": "train",
+    "match_path": "data/classwise _data/buffalo/train/images/Screenshot 2026-09-04 102741.png",
+    "phash_distance": 0,
+    "match_type": "EXACT_BYTES"
+  },
+  {
+    "cattle_stem": "cattle_Screenshot 2026-09-04 102950",
+    "cattle_split": "train",
+    "cattle_path": "data/classwise _data/cattle/train/images/cattle_Screenshot 2026-09-04 102950.png",
+    "match_class": "buffalo",
+    "match_stem": "Screenshot 2026-09-04 102950",
+    "match_split": "train",
+    "match_path": "data/classwise _data/buffalo/train/images/Screenshot 2026-09-04 102950.png",
+    "phash_distance": 0,
+    "match_type": "EXACT_BYTES"
+  },
+  {
+    "cattle_stem": "cattle_Screenshot 2026-09-04 102900",
+    "cattle_split": "train",
+    "cattle_path": "data/classwise _data/cattle/train/images/cattle_Screenshot 2026-09-04 102900.png",
+    "match_class": "buffalo",
+    "match_stem": "Screenshot 2026-09-04 102900",
+    "match_split": "train",
+    "match_path": "data/classwise _data/buffalo/train/images/Screenshot 2026-09-04 102900.png",
+    "phash_distance": 0,
+    "match_type": "EXACT_BYTES"
+  },
+  {
+    "cattle_stem": "cattle_Screenshot 2026-09-04 102920",
+    "cattle_split": "val",
+    "cattle_path": "data/classwise _data/cattle/val/images/cattle_Screenshot 2026-09-04 102920.png",
+    "match_class": "buffalo",
+    "match_stem": "Screenshot 2026-09-04 102920",
+    "match_split": "train",
+    "match_path": "data/classwise _data/buffalo/train/images/Screenshot 2026-09-04 102920.png",
+    "phash_distance": 0,
+    "match_type": "EXACT_BYTES"
+  }
+]

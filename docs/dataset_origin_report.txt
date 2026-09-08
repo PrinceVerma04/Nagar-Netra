@@ -1,0 +1,78 @@
+CIVIC MONITOR — TRAINING DATASET COMPOSITION BY CLASS AND ORIGIN
+Generated: 2026-08-26
+
+NOTE (2026-08-29): the "cattle" section below is stale. Cow Indian (447 img, face/nose crops)
+was removed and replaced with 72 deduplicated road-scene images from Roboflow
+indian-roads-detection (26 img) + Mendeley DATS_2022 (46 img) — both India, confirmed
+road-context, CC BY 4.0. See DATASETS.md § 7 for the full story and
+data/add_cattle_road_sources.py to reproduce. Totals below (16,766 images etc.) do not
+reflect this change — unified is now 16,766 - 447 + 72 = 16,391 images.
+
+================================================================================
+garbage_pile — 6,350 images total
+================================================================================
+Source                          Images merged   Origin
+--------------------------------------------------------------------------------
+TACO                                    3,572   Non-India (international litter photos)
+Trash Detection (Roboflow)              2,778   Unconfirmed
+
+================================================================================
+pothole — 3,753 images total
+================================================================================
+Source                          Images merged   Origin
+--------------------------------------------------------------------------------
+Pothole Detection - Intel Unnati        3,753   India (Intel Unnati Training Program is India-based)
+
+================================================================================
+billboard_hoarding — 3,399 images total
+================================================================================
+Source                          Images merged   Origin
+--------------------------------------------------------------------------------
+Billboard Object Detection (Roboflow)   3,399   Unconfirmed
+
+================================================================================
+manhole_open_broken — 964 images total
+================================================================================
+Source                                          Images merged   Origin
+--------------------------------------------------------------------------------
+Manhole Cover Dataset YOLO (filtered to           467   Unconfirmed
+  broken/uncovered/open)
+Open-Manholes (Roboflow)                          444   Unconfirmed
+Manhole Broken v2                                  53   Unconfirmed
+
+================================================================================
+streetlight_pole — 1,232 images total
+================================================================================
+Source                          Images merged   Origin
+--------------------------------------------------------------------------------
+Street Light (Sashank S, Roboflow)      1,232   Unconfirmed
+
+================================================================================
+encroachment — 621 images total
+================================================================================
+Source                                          Images merged   Origin
+--------------------------------------------------------------------------------
+Street Vendors (public)                           495   Unconfirmed
+Street Vendors India                               59   India (explicitly Indian street vendors)
+Footpath Guide (filtered to Vendor/Vendor          65   Unconfirmed
+  cart/Obstacle/Street goods)
+Illegal Parking (original, tiny)                    2   Unconfirmed
+
+================================================================================
+cattle — 447 images total
+================================================================================
+Source                          Images merged   Origin
+--------------------------------------------------------------------------------
+Cow Indian (Roboflow)                     447   India (explicitly "stray cattle on Indian roads")
+
+================================================================================
+SUMMARY
+================================================================================
+                        Total images   Confirmed India   Confirmed Non-India   Unconfirmed origin
+All 7 classes                 16,766      4,259 (25.4%)         3,572 (21.3%)       8,935 (53.3%)
+
+Only 3 of 15 source datasets are confirmed Indian: Intel Unnati (pothole, 3,753 img),
+Street Vendors India (encroachment, 59 img), and Cow Indian (cattle, 447 img) - together
+25.4% of the total dataset. TACO (21.3%) is confirmed international/non-India. The
+remaining 53.3% comes from Roboflow community uploads whose geographic origin was never
+stated on the dataset page.
